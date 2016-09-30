@@ -11,6 +11,10 @@ $jumbotron-color:       #34495e;
 
 @import 'bootstrap';
 
-.centre {
+.center {
 	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
 }
